@@ -6,3 +6,5 @@ autoreconf -i
 ./configure
 make
 ```
+## Dependencies
+libtool, libxml2-dev, flex, bison
